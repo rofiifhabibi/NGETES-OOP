@@ -1,6 +1,6 @@
 class KatakZuma:
-    def __init__(self, warna_peluru):
-        self.warna_peluru = warna_peluru
+    def __init__(self, warna_awal):
+        self.warna_peluru = warna_awal
         self.skor = 0
         self.is_active = True
     
